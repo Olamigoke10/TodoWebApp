@@ -1,13 +1,11 @@
 wash
 cook
 bath
-sleep
 run
 sit
 eat
 game
 Turn off the lights
-new
 go to sleep
 go to sleep
 bath the cat
