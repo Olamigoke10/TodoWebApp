@@ -3,10 +3,3 @@ cook
 bath
 run
 sit
-eat
-game
-Turn off the lights
-go to sleep
-go to sleep
-bath the cat
-lastly
