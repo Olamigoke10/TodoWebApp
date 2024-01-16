@@ -3,3 +3,5 @@ cook
 bath
 run
 sit
+cleanfix the computer
+sleep
